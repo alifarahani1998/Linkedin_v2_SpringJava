@@ -103,7 +103,7 @@
                 <div class="card-body px-lg-5 pt-0">
 
                     <!-- Form -->
-                    <form class="text-center" style="color: #757575;" action="#!">
+                    <form class="text-center" style="color: #757575;" action="Home.html">
 
                         <div class="form-row">
                             <div class="col">

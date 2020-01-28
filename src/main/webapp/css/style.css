@@ -1,0 +1,8 @@
+body {
+    overflow-x: hidden; //horizontal
+    overflow-y: scroll; //vertical
+}
+
+#leftnav {
+    overflow-y: hidden; //vertical
+}

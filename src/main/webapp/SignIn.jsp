@@ -18,9 +18,6 @@
 </head>
 <body class="fixed-sn">
 
-<h3>welcome to ${cname}'s course</h3>
-<h3>welcome to ${cid} course</h3>
-
 
 <!-- Start your project here-->
 <!--Main Navigation-->
@@ -108,7 +105,7 @@
                 <div class="card-body px-lg-5 pt-0">
 
                     <!-- Form -->
-                    <form class="text-center" style="color: #757575;" action="#!">
+                    <form class="text-center" style="color: #757575;" action="Home.html">
 
                         <!-- Email -->
                         <div class="md-form">
@@ -138,6 +135,7 @@
 
                         <!-- Sign in button -->
                         <button class="btn btn-outline-info btn-rounded btn-block my-4 waves-effect z-depth-0" type="submit">Sign in</button>
+
 
                         <!-- Register -->
                         <p>Not a member?
